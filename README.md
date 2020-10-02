@@ -1,7 +1,7 @@
 # Coding Test Practice
 Park Jaebeom
 
-## 고유 코드
+## 파일명 코드
 ### 1. 출처(Source)
 P: 프로그래머스(Programmers) - https://programmers.co.kr/  
 B: 백준(Baekjoon) - https://www.acmicpc.net/  
